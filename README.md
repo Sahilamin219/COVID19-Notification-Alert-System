@@ -1,4 +1,4 @@
-# COVID--19-Notification-Alert
+# COVID-19 Notification Alert
 
 In this project we work with python3 and various python3 module and build the application to show the notification on the PC desktop of different state which will fight with covid-19.
 
